@@ -1,0 +1,18 @@
+.quick-links{
+    background-color: rgb(27, 27, 26);
+}
+.quick-links ul{
+
+display:flex;
+margin-left: 300px;
+margin-top: 50px;
+}
+.quick-links li{
+margin-left: 100px;
+}
+
+.Copyright{
+    display:flex;
+    justify-content: center;
+    color: white;
+}
